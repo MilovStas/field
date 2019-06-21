@@ -13,7 +13,7 @@ using namespace std;
 	}
 	return res;
 }*/
-int f(int a)
+int f(int a)	//one
 {
 	// int r=a;
 	
